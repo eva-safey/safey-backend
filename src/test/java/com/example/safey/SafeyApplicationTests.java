@@ -8,6 +8,7 @@ class SafeyApplicationTests {
 
     @Test
     void contextLoads() {
+        String text = "TEXT";
     }
 
 }
